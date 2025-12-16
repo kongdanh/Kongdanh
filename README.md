@@ -60,8 +60,6 @@ Here are some academic projects I have worked on. I am currently refactoring the
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kongdanh&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" alt="Danh's Stats" height="180" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongdanh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
 </div>
 
